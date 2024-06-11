@@ -10,3 +10,4 @@ kenneth0627/centos7.5.1804
 kasmweb/edge
 cloudflare/cloudflared
 zerotier/zerotier
+cloudnas/clouddrive2-unstable
