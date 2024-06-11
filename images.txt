@@ -1,4 +1,12 @@
 nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+whyour/qinglong
+funcman/115pc
+xhofe/alist
+vimiix/pic-smaller
+frooodle/stirling-pdf-base
+gdy666/lucky
+oldiy/npc-client
+kenneth0627/centos7.5.1804
+kasmweb/edge
+cloudflare/cloudflared
+zerotier/zerotier
