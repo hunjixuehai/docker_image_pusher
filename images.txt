@@ -1,4 +1,3 @@
-nginx
 whyour/qinglong
 funcman/115pc
 xhofe/alist
@@ -10,3 +9,4 @@ kenneth0627/centos7.5.1804
 cloudflare/cloudflared
 zerotier/zerotier
 cloudnas/clouddrive2-unstable
+tailscale/tailscale
