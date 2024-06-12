@@ -10,3 +10,4 @@ cloudflare/cloudflared
 zerotier/zerotier
 cloudnas/clouddrive2-unstable
 tailscale/tailscale
+kasmweb/edge:1.15.0-rolling
