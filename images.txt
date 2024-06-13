@@ -1,1 +1,1 @@
-fogforest/firefox:latest
+weejewel/wg-easy:nightly
