@@ -1,1 +1,1 @@
-bestoray/pgyvpn:latest
+fogforest/firefox:latest
