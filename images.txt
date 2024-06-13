@@ -1,1 +1,1 @@
-pvapor/derper:latest
+xianwei2022/stars.client:latest
