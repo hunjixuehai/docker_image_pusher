@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+kasmweb/edge:1.14.0-rolling
